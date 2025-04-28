@@ -1,5 +1,71 @@
-Privacy Policy
+# Privacy Policy
 
-This app does not collect or share any personal information.
+Ultimo aggiornamento: 28 aprile 2025
 
-FrancoGame
+## Italiano
+
+**1. Introduzione**  
+Riflessi (in inglese “Reflexes”) è un’app che testa i riflessi. Non raccoglie dati personali sensibili.
+
+**2. Dati raccolti**  
+- **ID pubblicità** (Advertising ID), per mostrare annunci tramite Google AdMob.  
+- **Dati di utilizzo anonimi** (es. numero di avvii), solo se abiliti Analytics.
+
+**3. Uso dei dati**  
+- Mostrare annunci mirati con AdMob.  
+- (Se attivi) Analizzare crash o statistiche di uso per migliorare l’app.
+
+**4. Condivisione dei dati**  
+- I dati raccolti sono gestiti da Google (Play Console e AdMob).  
+- Non vendiamo né cediamo dati a terze parti diverse da Google.
+
+**5. Sicurezza**  
+- Non conserviamo dati personali identificativi.  
+- Google protegge i suoi server secondo i suoi standard.
+
+**6. Bambini**  
+- Adatta a utenti dai 6 anni in su.  
+- Non raccogliamo consapevolmente dati di minori.
+
+**7. Modifiche alla Privacy Policy**  
+- Ogni modifica sarà pubblicata con nuova data di aggiornamento.  
+- Controlla periodicamente questo documento.
+
+**8. Contatti**  
+Per domande:  
+✉️ email: f.scimone@gmail.com 
+
+---
+
+## English
+
+**1. Introduction**  
+Reflexes is a simple game-app testing reaction speed. We do **not** collect sensitive personal data.
+
+**2. Data Collected**  
+- **Advertising ID**, to serve ads via Google AdMob.  
+- **Anonymous usage data** (e.g. app opens), only if Analytics is enabled.
+
+**3. How We Use Data**  
+- To display targeted ads through AdMob.  
+- (If enabled) To analyze crashes or usage statistics for app improvement.
+
+**4. Data Sharing**  
+- Data is managed by Google (Play Console and AdMob).  
+- We do not sell or share data with any third parties other than Google.
+
+**5. Security**  
+- No personally identifying information is stored.  
+- Google secures its servers according to industry standards.
+
+**6. Children**  
+- Suitable for ages 6+.  
+- We do not knowingly collect data from minors.
+
+**7. Changes to This Privacy Policy**  
+- Updates will carry a new “last updated” date above.  
+- Please review this policy periodically.
+
+**8. Contact Us**  
+For questions:  
+✉️ email: f.scimone@gmail.com 
