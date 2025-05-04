@@ -4,68 +4,62 @@ Ultimo aggiornamento: 28 aprile 2025
 
 ## Italiano
 
-**1. Introduzione**  
+Privacy Policy
+
+Italiano
+
+1. Introduzione
 Riflessi (in inglese “Reflexes”) è un’app che testa i riflessi. Non raccoglie dati personali sensibili.
+2. Dati raccolti
+ID pubblicità (Advertising ID), per mostrare annunci tramite Google AdMob.
+Dati tecnici e di utilizzo anonimi (es. interazioni di base con l'app, log degli arresti anomali (crash), dati di diagnostica) raccolti tramite Google Play Services per monitorare e migliorare la stabilità e le prestazioni dell'app (Android Vitals).
+3. Uso dei dati
+Mostrare annunci personalizzati con AdMob.
+Analizzare i dati tecnici per identificare problemi, migliorare la stabilità e le prestazioni dell'app.
+4. Condivisione dei dati
+I dati raccolti sono gestiti principalmente da Google (Google Play Services, Play Console e AdMob).
+Non vendiamo né cediamo dati identificativi personali a terze parti diverse da Google.
+5. Sicurezza
+Non conserviamo dati personali identificativi sui nostri server.
+Google protegge i suoi server secondo i suoi standard.
+6. Bambini
+Adatta a utenti dai 6 anni in su.
+Non raccogliamo consapevolmente dati di minori identificativi.
+7. Gestione e Cancellazione dei Dati
+L'utente può gestire l'ID Pubblicitario direttamente dalle impostazioni del proprio dispositivo Android (solitamente in Impostazioni > Google > Annunci > Reimposta ID pubblicitario).
+Per richieste relative alla privacy o alla cancellazione dei dati associati all'ID pubblicitario o ai dati tecnici raccolti, puoi contattarci all'indirizzo email fornito di seguito. Ti forniremo le informazioni su come i dati sono gestiti da Google e su come puoi esercitare il controllo disponibile tramite le impostazioni del tuo dispositivo.
+8. Modifiche alla Privacy Policy
+Ogni modifica sarà pubblicata con nuova data di aggiornamento.
+Controlla periodicamente questo documento.
+9. Contatti
+Per domande:
+✉️ email: f.scimone@gmail.com
 
-**2. Dati raccolti**  
-- **ID pubblicità** (Advertising ID), per mostrare annunci tramite Google AdMob.  
-- **Dati di utilizzo anonimi** (es. numero di avvii), solo se abiliti Analytics.
+English
 
-**3. Uso dei dati**  
-- Mostrare annunci mirati con AdMob.  
-- (Se attivi) Analizzare crash o statistiche di uso per migliorare l’app.
-
-**4. Condivisione dei dati**  
-- I dati raccolti sono gestiti da Google (Play Console e AdMob).  
-- Non vendiamo né cediamo dati a terze parti diverse da Google.
-
-**5. Sicurezza**  
-- Non conserviamo dati personali identificativi.  
-- Google protegge i suoi server secondo i suoi standard.
-
-**6. Bambini**  
-- Adatta a utenti dai 6 anni in su.  
-- Non raccogliamo consapevolmente dati di minori.
-
-**7. Modifiche alla Privacy Policy**  
-- Ogni modifica sarà pubblicata con nuova data di aggiornamento.  
-- Controlla periodicamente questo documento.
-
-**8. Contatti**  
-Per domande:  
-✉️ email: f.scimone@gmail.com 
-
----
-
-## English
-
-**1. Introduction**  
-Reflexes is a simple game-app testing reaction speed. We do **not** collect sensitive personal data.
-
-**2. Data Collected**  
-- **Advertising ID**, to serve ads via Google AdMob.  
-- **Anonymous usage data** (e.g. app opens), only if Analytics is enabled.
-
-**3. How We Use Data**  
-- To display targeted ads through AdMob.  
-- (If enabled) To analyze crashes or usage statistics for app improvement.
-
-**4. Data Sharing**  
-- Data is managed by Google (Play Console and AdMob).  
-- We do not sell or share data with any third parties other than Google.
-
-**5. Security**  
-- No personally identifying information is stored.  
-- Google secures its servers according to industry standards.
-
-**6. Children**  
-- Suitable for ages 6+.  
-- We do not knowingly collect data from minors.
-
-**7. Changes to This Privacy Policy**  
-- Updates will carry a new “last updated” date above.  
-- Please review this policy periodically.
-
-**8. Contact Us**  
-For questions:  
-✉️ email: f.scimone@gmail.com 
+1. Introduction
+Reflexes is a simple game-app testing reaction speed. We do not collect sensitive personal data.
+2. Data Collected
+Advertising ID, to serve ads via Google AdMob.
+Anonymous technical and usage data (e.g., basic app interactions, crash logs, diagnostics data) collected via Google Play Services to monitor and improve app stability and performance (Android Vitals).
+3. How We Use Data
+To display personalized ads through AdMob.
+To analyze technical data to identify issues, improve stability, and app performance.
+4. Data Sharing
+Data is managed primarily by Google (Google Play Services, Play Console, and AdMob).
+We do not sell or share personally identifying data with any third parties other than Google.
+5. Security
+No personally identifying information is stored on our servers.
+Google secures its servers according to industry standards.
+6. Children
+Suitable for ages 6+.
+We do not knowingly collect identifying data from minors.
+7. Data Management and Deletion
+Users can manage their Advertising ID directly from their Android device settings (usually under Settings > Google > Ads > Reset advertising ID).
+For requests regarding privacy or the deletion of data associated with the Advertising ID or technical data collected, you can contact us at the email address provided below. We will provide information on how data is managed by Google and how you can exercise the control available through your device settings.
+8. Changes to This Privacy Policy
+Updates will carry a new “last updated” date above.
+Please review this policy periodically.
+9. Contact Us
+For questions:
+✉️ email: f.scimone@gmail.com
