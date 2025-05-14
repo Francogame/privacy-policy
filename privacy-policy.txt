@@ -1,85 +1,112 @@
 Privacy Policy di Riflessi
-Ultimo aggiornamento: 9 Maggio 2025
+Ultimo aggiornamento: 14 Maggio 2025
 Italiano
 Benvenuto in Riflessi! La tua privacy è importante per noi. Questa Informativa sulla Privacy spiega quali informazioni vengono raccolte quando utilizzi la nostra applicazione mobile "Riflessi" (di seguito "l'App"), come vengono utilizzate e condivise, e le tue scelte riguardo a tali informazioni.
 Utilizzando l'App, acconsenti alla raccolta e all'uso delle informazioni in conformità con questa policy.
-1. Chi Siamo
+Chi Siamo
 L'App "Riflessi" è fornita da Franco Scimone (di seguito "noi", "ci", "nostro"). Non raccogliamo né conserviamo direttamente sui nostri server alcun dato personale che ti identifichi. L'App integra servizi di terze parti forniti da Google, che possono raccogliere dati come descritto di seguito.
-2. Dati Raccolti e Finalità
+Dati Raccolti e Finalità
 L'App utilizza i seguenti servizi di Google, che raccolgono dati per le finalità specificate:
 Google AdMob:
 Dati Raccolti: Questo servizio, fornito da Google, raccoglie l'ID Pubblicità del tuo dispositivo (come l'Advertising ID di Android). Potrebbe anche raccogliere informazioni tecniche sul tuo dispositivo e sulla tua connessione internet per mostrare annunci pubblicitari all'interno dell'App.
-Finalità: Utilizziamo Google AdMob per mostrare annunci pubblicitari. Per gli utenti identificati come minori (vedi sezione "Privacy dei Bambini"), questi annunci sono configurati per essere non personalizzati e filtrati per essere adatti alla loro età. Per gli altri utenti, gli annunci potrebbero essere personalizzati in base ai loro interessi, a meno che non abbiano disattivato la personalizzazione degli annunci nelle impostazioni del proprio dispositivo.
+Finalità: Utilizziamo Google AdMob per mostrare annunci pubblicitari. Per gli utenti identificati come minori (vedi sezione "Privacy dei Bambini"), questi annunci sono configurati per essere non personalizzati e filtrati per essere adatti alla loro età. Per gli altri utenti, gli annunci potrebbero essere personalizzati in base ai loro interessi, a meno che non abbiano disattivato la personalizzazione degli annunci nelle impostazioni del proprio dispositivo o attraverso la gestione del consenso nell'App.
 Google Play Services (incluso Android Vitals):
 Dati Raccolti: Google Play Services può raccogliere dati tecnici e di utilizzo anonimi, come informazioni sugli arresti anomali (crash log), dati di diagnostica, informazioni sul dispositivo e sulle prestazioni dell'App. Questi dati sono aggregati e anonimizzati da Google.
 Finalità: Questi dati vengono utilizzati per monitorare le prestazioni dell'App, identificare problemi tecnici, migliorare la stabilità e l'esperienza utente generale.
 Noi, come sviluppatori dell'App, non abbiamo accesso diretto ai dati grezzi raccolti da questi servizi Google in una forma che ci permetta di identificarti personalmente, né li memorizziamo sui nostri sistemi.
-3. Condivisione dei Dati
+Condivisione dei Dati
 Non vendiamo, scambiamo o trasferiamo a terzi i tuoi dati personali identificabili.
 I dati raccolti tramite Google AdMob e Google Play Services sono gestiti da Google in conformità con le loro informative sulla privacy. Possiamo accedere a report aggregati e anonimi forniti da Google (ad es. tramite Google Play Console e AdMob Console) per le finalità sopra descritte.
-4. Servizi di Terze Parti e Loro Policy
+Servizi di Terze Parti e Loro Policy
 L'App si basa su servizi forniti da Google. Ti invitiamo a leggere le loro informative sulla privacy per comprendere come gestiscono i tuoi dati:
 Privacy Policy di Google: https://policies.google.com/privacy
 Come Google utilizza i dati quando si utilizzano siti o app dei nostri partner: https://policies.google.com/technologies/partner-sites
 Google AdMob & Ads: È possibile trovare ulteriori informazioni su come Google gestisce i dati nel contesto pubblicitario attraverso i link precedenti e le impostazioni del proprio account Google.
-5. Sicurezza dei Dati
+Sicurezza dei Dati
 Adottiamo misure ragionevoli per proteggere le informazioni all'interno dell'App. Tuttavia, poiché non conserviamo dati personali sui nostri server, la sicurezza dei dati raccolti dai servizi di Google è gestita da Google secondo i loro standard di sicurezza. Google implementa misure tecniche e organizzative per proteggere i dati che raccoglie.
-6. Privacy dei Bambini
+Privacy dei Bambini
 L'App è destinata a un pubblico generale, inclusi bambini di età pari o superiore a 6 anni.
 Siamo impegnati a proteggere la privacy dei bambini e rispettiamo il Children's Online Privacy Protection Act (COPPA) degli Stati Uniti, il Regolamento Generale sulla Protezione dei Dati (GDPR) dell'Unione Europea e altre normative applicabili relative alla privacy dei minori.
 Non raccogliamo consapevolmente informazioni di identificazione personale (PII) da bambini al di sotto dell'età del consenso digitale applicabile senza il consenso verificabile dei genitori, ove richiesto dalla legge.
 Per gli utenti identificati come bambini, abbiamo configurato Google AdMob per richiedere un trattamento per contenuti destinati ai minori (ad esempio, tramite flag come TFCD/TFUA), il che significa che gli annunci serviti dovrebbero essere filtrati per appropriatezza all'età e non basati su pubblicità comportamentale online personalizzata.
 Se ritieni che abbiamo involontariamente raccolto informazioni personali da un bambino senza il necessario consenso, ti preghiamo di contattarci immediatamente all'indirizzo email fornito di seguito.
-7. I Tuoi Diritti e la Gestione dei Dati
-ID Pubblicità: Puoi reimpostare l'ID Pubblicità del tuo dispositivo o disattivare la personalizzazione degli annunci attraverso le impostazioni del tuo dispositivo mobile (solitamente in Impostazioni > Google > Annunci).
-Dati raccolti da Google: Per i dati raccolti da Google AdMob e Google Play Services, puoi esercitare i tuoi diritti (come l'accesso o la cancellazione, ove applicabile) direttamente con Google attraverso le impostazioni del tuo account Google e le policy sopra menzionate.
-Contattaci per informazioni: Se hai domande su come i dati vengono gestiti o su come esercitare i tuoi diritti relativi ai dati raccolti tramite l'App, puoi contattarci all'indirizzo email sottostante. Ti forniremo informazioni su come i dati sono gestiti da Google e su come puoi esercitare il controllo disponibile tramite le impostazioni del tuo dispositivo o del tuo account Google. È importante notare che, poiché non conserviamo direttamente i tuoi dati personali, non possiamo cancellare direttamente dati che risiedono sui server di Google. Questo è coerente con le dichiarazioni fornite nella sezione "Sicurezza dei dati" della nostra scheda sul Google Play Store.
-8. Modifiche a Questa Informativa sulla Privacy
+7. I Tuoi Diritti, la Gestione del Consenso e l'"Eliminazione" dei Dati
+Comprendiamo l'importanza del controllo sui tuoi dati. Poiché la nostra App non crea né richiede un account utente personale, l'"eliminazione dei dati" in questo contesto si riferisce principalmente alla gestione del tuo consenso per la raccolta e l'uso dei dati per finalità pubblicitarie, e al controllo dell'identificatore pubblicitario del tuo dispositivo. Ecco come puoi gestire i tuoi dati e le tue preferenze:
+*   **Gestione del Consenso (tramite il link "Manage Consent" / "Gestisci Consenso" o simile, presente nell'App):** All'interno dell'App, troverai un'opzione (ad esempio, un link o un pulsante etichettato **"Manage Consent"**, "Privacy Settings", **"Gestisci Consenso"** o una dicitura simile, a seconda di come l'hai implementato) che ti permette di accedere alla piattaforma di gestione del consenso (fornita tramite Google UMP SDK). Attraverso questa interfaccia potrai:
+    *   Dare il tuo consenso alla raccolta e all'utilizzo dei tuoi dati per la visualizzazione di annunci pubblicitari.
+    *   Negare il consenso.
+    *   Revocare un consenso precedentemente fornito.
+    *   Gestire in modo granulare le tue preferenze per specifiche finalità pubblicitarie e specifici fornitori (vendor).
+    La revoca del consenso o la negazione impedirà l'ulteriore raccolta o utilizzo dei tuoi dati per gli scopi per i quali il consenso è stato gestito tramite questa piattaforma.
+
+*   **ID Pubblicità del Dispositivo:** Puoi reimpostare l'ID Pubblicità del tuo dispositivo o disattivare la personalizzazione degli annunci (limitare il tracciamento pubblicitario) attraverso le impostazioni del tuo dispositivo mobile. Queste opzioni si trovano solitamente in:
+    *   Per Android: Impostazioni > Google > Annunci > "Reimposta ID pubblicità" e "Disattiva personalizzazione annunci" (o diciture simili a seconda della versione di Android).
+    *   *(Franco, se le tue app sono solo per Android, puoi omettere la parte iOS)* Per iOS: Impostazioni > Privacy > Tracciamento > Disattiva "Richiesta tracciamento attività app" (o Impostazioni > Privacy e Sicurezza > Pubblicità Apple > Disattiva "Annunci personalizzati").
+    Resettare il tuo ID pubblicitario o disattivare la personalizzazione aiuta a limitare il tracciamento attraverso le app per scopi pubblicitari.
+
+*   **Dati raccolti da Google:** Per i dati raccolti da Google AdMob e Google Play Services, puoi esercitare i tuoi diritti (come l'accesso o la richiesta di cancellazione, ove applicabile e tecnicamente possibile da parte di Google) direttamente con Google attraverso le impostazioni del tuo account Google e le loro policy sulla privacy, precedentemente menzionate (vedi Sezione 4).
+
+*   **Contattaci per Informazioni e Richieste:** Se hai domande su come i tuoi dati vengono gestiti, su come esercitare i tuoi diritti, o se desideri richiedere l'interruzione dell'utilizzo dei tuoi dati nei limiti del controllo a nostra disposizione, puoi contattarci all'indirizzo email sottostante (vedi Sezione 9). Ti forniremo assistenza e informazioni su come i dati sono gestiti principalmente da Google e su come puoi esercitare il controllo disponibile. È importante notare che, poiché non conserviamo direttamente i tuoi dati personali in un account utente, non possiamo cancellare direttamente dati che risiedono sui server di Google. Le azioni sopra descritte (gestione del consenso tramite il link nell'app e reset dell'ID pubblicitario del dispositivo) sono i metodi principali a tua disposizione per controllare l'uso dei tuoi dati per la pubblicità **e costituiscono il modo in cui puoi richiedere l'"eliminazione" o la cessazione dell'utilizzo dei tuoi dati nel contesto di questa App.**
+
+Modifiche a Questa Informativa sulla Privacy
 Potremmo aggiornare la nostra Informativa sulla Privacy di tanto in tanto. Ti informeremo di eventuali modifiche pubblicando la nuova Informativa sulla Privacy in questa sezione dell'App e aggiornando la data di "Ultimo aggiornamento" all'inizio di questa Informativa sulla Privacy.
 Ti consigliamo di rivedere periodicamente questa Informativa sulla Privacy per eventuali modifiche. Le modifiche a questa Informativa sulla Privacy entrano in vigore nel momento in cui vengono pubblicate.
-9. Contatti
+Contatti
 Se hai domande riguardo a questa Informativa sulla Privacy, puoi contattarci:
 ✉️ Email: f.scimone@gmail.com
-
-English
+English (con modifiche parallele)
 Reflexes Privacy Policy
-Last updated: May 9, 2025
+Last updated: May 14,2025
 Welcome to Reflexes! Your privacy is important to us. This Privacy Policy explains what information is collected when you use our mobile application "Reflexes" (hereinafter "the App"), how it is used and shared, and your choices regarding that information.
 By using the App, you consent to the collection and use of information in accordance with this policy.
-1. About Us
+About Us
 The App "Reflexes" is provided by Franco Scimone (hereinafter "we", "us", "our"). We do not directly collect or store on our servers any personal data that identifies you. The App integrates third-party services provided by Google, which may collect data as described below.
-2. Data Collected and Purposes
+Data Collected and Purposes
 The App uses the following Google services, which collect data for the specified purposes:
 Google AdMob:
 Data Collected: This service, provided by Google, collects your device's Advertising ID (such as Android's Advertising ID). It may also collect technical information about your device and internet connection to display advertisements within the App.
-Purpose: We use Google AdMob to display advertisements. For users identified as children (see "Children's Privacy" section), these ads are configured to be non-personalized and filtered to be age-appropriate. For other users, ads may be personalized based on their interests, unless they have opted out of ad personalization in their device settings.
+Purpose: We use Google AdMob to display advertisements. For users identified as children (see "Children's Privacy" section), these ads are configured to be non-personalized and filtered to be age-appropriate. For other users, ads may be personalized based on their interests, unless they have opted out of ad personalization in their device settings or through the in-app consent management.
 Google Play Services (including Android Vitals):
 Data Collected: Google Play Services may collect anonymous technical and usage data, such as crash logs, diagnostic data, device information, and App performance data. This data is aggregated and anonymized by Google.
 Purpose: This data is used to monitor App performance, identify technical issues, improve stability, and the overall user experience.
 We, as the App developers, do not have direct access to the raw data collected by these Google services in a form that allows us to personally identify you, nor do we store it on our systems.
-3. Data Sharing
+Data Sharing
 We do not sell, trade, or otherwise transfer your personally identifiable information to third parties.
 Data collected via Google AdMob and Google Play Services is managed by Google in accordance with their privacy policies. We may access aggregated and anonymized reports provided by Google (e.g., via Google Play Console and AdMob Console) for the purposes described above.
-4. Third-Party Services and Their Policies
+Third-Party Services and Their Policies
 The App relies on services provided by Google. We encourage you to read their privacy policies to understand how they handle your data:
 Google Privacy Policy: https://policies.google.com/privacy
 How Google uses data when you use our partners' sites or apps: https://policies.google.com/technologies/partner-sites
 Google AdMob & Ads: You can find more information on how Google handles data in the advertising context through the links above and your Google account settings.
-5. Data Security
+Data Security
 We take reasonable measures to protect information within the App. However, as we do not store personal data on our servers, the security of data collected by Google services is managed by Google according to their security standards. Google implements technical and organizational measures to protect the data it collects.
-6. Children's Privacy
+Children's Privacy
 The App is intended for a general audience, including children aged 6 and older.
 We are committed to protecting children's privacy and comply with the U.S. Children's Online Privacy Protection Act (COPPA), the European Union's General Data Protection Regulation (GDPR), and other applicable regulations concerning children's privacy.
 We do not knowingly collect personally identifiable information (PII) from children under the applicable age of digital consent without verifiable parental consent where required by law.
 For users identified as children, we have configured Google AdMob to request treatment for child-directed content (e.g., via flags like TFCD/TFUA), which means that ads served should be filtered for age-appropriateness and not based on personalized online behavioral advertising.
 If you believe we have inadvertently collected personal information from a child without the necessary consent, please contact us immediately at the email address provided below.
-7. Your Rights and Data Management
-Advertising ID: You can reset your device's Advertising ID or opt-out of ad personalization through your mobile device settings (usually under Settings > Google > Ads).
-Data collected by Google: For data collected by Google AdMob and Google Play Services, you can exercise your rights (such as access or deletion, where applicable) directly with Google through your Google account settings and the policies mentioned above.
-Contact us for information: If you have questions about how data is managed or how to exercise your rights regarding data collected through the App, you can contact us at the email address below. We will provide you with information on how data is managed by Google and how you can exercise the control available through your device or Google account settings. It is important to note that, as we do not directly store your personal data, we cannot directly delete data residing on Google's servers. This is consistent with the statements made in the "Data safety" section of our Google Play Store listing.
-8. Changes to This Privacy Policy
+7. Your Rights, Consent Management, and Data "Deletion"
+We understand the importance of control over your data. As our App does not create or require a personal user account, "data deletion" in this context primarily refers to managing your consent for data collection and use for advertising purposes, and controlling your device's advertising identifier. Here's how you can manage your data and preferences:
+*   **Consent Management (via the "Manage Consent" link or similar, within the App):** Within the App, you will find an option (e.g., a link or button labeled **"Manage Consent"**, "Privacy Settings," or a similar term, depending on your implementation) that allows you to access the consent management platform (provided via Google UMP SDK). Through this interface, you can:
+    *   Give your consent to the collection and use of your data for displaying advertisements.
+    *   Deny consent.
+    *   Withdraw previously given consent.
+    *   Manage your preferences granularly for specific advertising purposes and specific vendors.
+    Withdrawing or denying consent will prevent further collection or use of your data for the purposes managed through this platform.
+
+*   **Device Advertising ID:** You can reset your device's Advertising ID or opt-out of ad personalization (limit ad tracking) through your mobile device settings. These options are typically found in:
+    *   For Android: Settings > Google > Ads > "Reset advertising ID" and "Opt out of Ads Personalization" (or similar terms depending on the Android version).
+    *   *(Franco, if your apps are Android-only, you can omit the iOS part)* For iOS: Settings > Privacy > Tracking > Turn off "Allow Apps to Request to Track" (or Settings > Privacy & Security > Apple Advertising > Turn off "Personalized Ads").
+    Resetting your advertising ID or opting out of personalization helps limit tracking across apps for advertising purposes.
+
+*   **Data collected by Google:** For data collected by Google AdMob and Google Play Services, you can exercise your rights (such as access or requesting deletion, where applicable and technically feasible by Google) directly with Google through your Google account settings and their privacy policies, mentioned earlier (see Section 4).
+
+*   **Contact Us for Information and Requests:** If you have questions about how your data is managed, how to exercise your rights, or if you wish to request the cessation of your data's use within the limits of our control, you can contact us at the email address below (see Section 9). We will provide assistance and information on how data is primarily managed by Google and how you can exercise available control. It's important to note that, as we do not directly store your personal data in a user account, we cannot directly delete data residing on Google's servers. The actions described above (managing consent via the in-app link and resetting the device advertising ID) are the primary methods available to you for controlling the use of your data for advertising **and constitute how you can request the "deletion" or cessation of use of your data in the context of this App.**
+
+Changes to This Privacy Policy
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in this section of the App and updating the "Last updated" date at the top of this Privacy Policy.
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted.
-9. Contact Us
+Contact Us
 If you have any questions about this Privacy Policy, you can contact us:
 ✉️ Email: f.scimone@gmail.com
