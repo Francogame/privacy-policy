@@ -1,7 +1,7 @@
 Privacy Policy di GST
 Ultimo aggiornamento: 14 Maggio 2025
 Italiano
-Benvenuto in GST! La tua privacy è importante per noi. Questa Informativa sulla Privacy spiega quali informazioni vengono raccolte quando utilizzi la nostra applicazione mobile "Riflessi" (di seguito "l'App"), come vengono utilizzate e condivise, e le tue scelte riguardo a tali informazioni.
+Benvenuto in GST! La tua privacy è importante per noi. Questa Informativa sulla Privacy spiega quali informazioni vengono raccolte quando utilizzi la nostra applicazione mobile "GST" (di seguito "l'App"), come vengono utilizzate e condivise, e le tue scelte riguardo a tali informazioni.
 Utilizzando l'App, acconsenti alla raccolta e all'uso delle informazioni in conformità con questa policy.
 Chi Siamo
 L'App "GST" è fornita da Franco Scimone (di seguito "noi", "ci", "nostro"). Non raccogliamo né conserviamo direttamente sui nostri server alcun dato personale che ti identifichi. L'App integra servizi di terze parti forniti da Google, che possono raccogliere dati come descritto di seguito.
@@ -58,7 +58,7 @@ Se hai domande riguardo a questa Informativa sulla Privacy, puoi contattarci:
 English 
 GST Privacy Policy
 Last updated: May 14,2025
-Welcome to GST! Your privacy is important to us. This Privacy Policy explains what information is collected when you use our mobile application "Reflexes" (hereinafter "the App"), how it is used and shared, and your choices regarding that information.
+Welcome to GST! Your privacy is important to us. This Privacy Policy explains what information is collected when you use our mobile application "GST" (hereinafter "the App"), how it is used and shared, and your choices regarding that information.
 By using the App, you consent to the collection and use of information in accordance with this policy.
 About Us
 The App "GST" is provided by Franco Scimone (hereinafter "we", "us", "our"). We do not directly collect or store on our servers any personal data that identifies you. The App integrates third-party services provided by Google, which may collect data as described below.
