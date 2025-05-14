@@ -41,7 +41,7 @@ Comprendiamo l'importanza del controllo sui tuoi dati. Poiché la nostra App non
 
 *   **ID Pubblicità del Dispositivo:** Puoi reimpostare l'ID Pubblicità del tuo dispositivo o disattivare la personalizzazione degli annunci (limitare il tracciamento pubblicitario) attraverso le impostazioni del tuo dispositivo mobile. Queste opzioni si trovano solitamente in:
     *   Per Android: Impostazioni > Google > Annunci > "Reimposta ID pubblicità" e "Disattiva personalizzazione annunci" (o diciture simili a seconda della versione di Android).
-    *   *(Franco, se le tue app sono solo per Android, puoi omettere la parte iOS)* Per iOS: Impostazioni > Privacy > Tracciamento > Disattiva "Richiesta tracciamento attività app" (o Impostazioni > Privacy e Sicurezza > Pubblicità Apple > Disattiva "Annunci personalizzati").
+    *   Per iOS: Impostazioni > Privacy > Tracciamento > Disattiva "Richiesta tracciamento attività app" (o Impostazioni > Privacy e Sicurezza > Pubblicità Apple > Disattiva "Annunci personalizzati").
     Resettare il tuo ID pubblicitario o disattivare la personalizzazione aiuta a limitare il tracciamento attraverso le app per scopi pubblicitari.
 
 *   **Dati raccolti da Google:** Per i dati raccolti da Google AdMob e Google Play Services, puoi esercitare i tuoi diritti (come l'accesso o la richiesta di cancellazione, ove applicabile e tecnicamente possibile da parte di Google) direttamente con Google attraverso le impostazioni del tuo account Google e le loro policy sulla privacy, precedentemente menzionate (vedi Sezione 4).
@@ -97,7 +97,7 @@ We understand the importance of control over your data. As our App does not crea
 
 *   **Device Advertising ID:** You can reset your device's Advertising ID or opt-out of ad personalization (limit ad tracking) through your mobile device settings. These options are typically found in:
     *   For Android: Settings > Google > Ads > "Reset advertising ID" and "Opt out of Ads Personalization" (or similar terms depending on the Android version).
-    *   *(Franco, if your apps are Android-only, you can omit the iOS part)* For iOS: Settings > Privacy > Tracking > Turn off "Allow Apps to Request to Track" (or Settings > Privacy & Security > Apple Advertising > Turn off "Personalized Ads").
+    *   For iOS: Settings > Privacy > Tracking > Turn off "Allow Apps to Request to Track" (or Settings > Privacy & Security > Apple Advertising > Turn off "Personalized Ads").
     Resetting your advertising ID or opting out of personalization helps limit tracking across apps for advertising purposes.
 
 *   **Data collected by Google:** For data collected by Google AdMob and Google Play Services, you can exercise your rights (such as access or requesting deletion, where applicable and technically feasible by Google) directly with Google through your Google account settings and their privacy policies, mentioned earlier (see Section 4).
